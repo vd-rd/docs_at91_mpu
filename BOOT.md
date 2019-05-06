@@ -10,3 +10,7 @@ TBD
 | SDCard | x | x | y | y |
 | USB | y | y | y | y |
 | SAM-BA | x | <2.11 |
+
+### Resources
+1. https://www.at91.com/linux4sam/bin/view/Linux4SAM/LegacyGettingStarted
+2. https://www.at91.com/linux4sam/bin/view/Linux4SAM/LegacyAT91Bootstrap
