@@ -1,5 +1,5 @@
 
-| Feature | Subfeature | 91RM9200 | 91SAM9260 | 91SAM9261 | 91SAM9263 | 91SAM9XE | 91SAM12N | 91SAM9R | 91SAM9G |
+| Feature | Subfeature | 91RM9200 | 91SAM9260 | 91SAM9261 | 91SAM9263 | 91SAM9XE | 91SAM9N12 | 91SAM9R | 91SAM9G |
 | ------ | ------ | ------ | ------ | ------ | ------ | ------ | ------ | ------ | ------ |
 | ADC | | x | 4 |
 | Camera | | x |
